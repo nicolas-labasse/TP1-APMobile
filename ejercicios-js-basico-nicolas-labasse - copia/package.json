@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios-js-basico",
+  "version": "1.0.0",
+  "description": "Template ejercicios JS básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd-educ/ejercicios-js-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cd-educ/ejercicios-js-basico/issues"
+  },
+  "homepage": "https://github.com/cd-educ/ejercicios-js-basico#readme",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
